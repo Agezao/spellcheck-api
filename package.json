@@ -27,7 +27,7 @@
     "compression": "^1.7.3",
     "cors": "^2.8.5",
     "damerau-levenshtein": "^1.0.5",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "express-validation": "^1.0.2",
     "fs-extra": "^7.0.1",
     "helmet": "^3.14.0",
